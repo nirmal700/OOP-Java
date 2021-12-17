@@ -6,7 +6,7 @@ import java.util.Scanner;
 class Employee
 {
     String empName, empID ;
-    Double empSal;
+    double empSal;
     Employee()
     {
         empID="";
