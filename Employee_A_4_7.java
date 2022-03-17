@@ -19,10 +19,6 @@ class Employee
         System.out.println(""+empName+"\t"+""+empNo+"\t"+""+basicSal+"\t"+da+"\t"+""+hra+"\t"+grossSal);
     }
 }
-
-/**
- * Employee_A_4_7
- */
 public class Employee_A_4_7 {
     public static void main(String[] args) {
         Employee em = new Employee("Shweta Dash", "1235",   20000);

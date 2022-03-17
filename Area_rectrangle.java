@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Area_rectrangle
- */
 class Area
 {
     int len,bre;

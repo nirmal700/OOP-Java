@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Average_Three
- */
 class Average
 {
     int n1,n2,n3;

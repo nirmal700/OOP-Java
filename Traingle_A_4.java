@@ -1,6 +1,3 @@
-/**
- * Traingle_A_4
- */
 class Triangle
 {
     int side1,side2,side3,peri;

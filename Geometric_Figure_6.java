@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 abstract class GeometricFigure
 {
     int dim1,dim2;

@@ -6,13 +6,6 @@ class Employee
     String name,adress;
     float salary;
     int yoj;
-    // Employee(String name,int yoj,float salary, String adress)
-    // {
-    //     this.adress=adress;
-    //     this.name=name;
-    //     this.salary=salary;
-    //     this.yoj=yoj;
-    // }
     void Show()
     {
         System.out.println("The Employee Name is :"+name);

@@ -20,5 +20,4 @@ public class Print_Inheritane_5 {
         child.display();
         child.show();
     }
-    
 }

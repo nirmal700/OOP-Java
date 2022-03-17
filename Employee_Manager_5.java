@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Employee_Manager_5
- */
 class Employee
 {
     String empName, empID ;

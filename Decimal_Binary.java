@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Decimal_Binary
- */
 public class Decimal_Binary {
 
     public static void main(String[] args) {

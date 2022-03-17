@@ -1,6 +1,3 @@
-/**
- * Shape_Overridding
- */
 class Shape
 {
     void draw()
@@ -14,6 +11,8 @@ class Shape
 }
 class Triangle extends Shape
 {
+    public Triangle(double st1, double st2, double st3) {
+    }
     void draw()
     {
         System.out.println("Drawing Triangle");
@@ -25,6 +24,8 @@ class Triangle extends Shape
 }
 class Circle extends Shape
 {
+    public Circle(double r) {
+    }
     void draw()
     {
         System.out.println("Drawing Circle");
